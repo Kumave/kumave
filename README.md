@@ -1,16 +1,13 @@
 ## Hi there 👋
 
 <!--
-**Kumave/kumave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello world, we are Eli UwU and ValeUnU, Welcome to our space, we like BTS and bl's manhwa, We are programmers in progress and we hope to improve ( ´･･)ﾉ(._.`) (us).
+=￣ω￣=:
+- 🔭 We are currently working on a program
+- 🌱 Wa are currently learning programing
+- 👯 We are looking to collaborate on 
+- 🤔 We are looking for help with a teacher
+- 💬 Ask me about prime move, BTS,anime and abaut us. 
+- 📫 How to reach we: at school and social media
+- 😄 Pronouns: she/They.
+- ⚡ Fun fact: BTS PAVED THE WAY
