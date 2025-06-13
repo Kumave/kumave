@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 Hello world, we are Eli UwU and ValeUnU, Welcome to our space, we like BTS and bl's manhwa, We are programmers in progress and we hope to improve ( ´･･)ﾉ(._.`) (us).
 =￣ω￣=:
 - 🔭 We are currently working on a program
